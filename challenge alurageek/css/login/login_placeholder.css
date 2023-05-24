@@ -1,0 +1,15 @@
+.login__placeholder{
+    position: absolute;
+    top:1.6rem;
+    left: 0.7rem;
+    color: rgba(162, 162, 162, 1);
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.input:focus~.login__placeholder{
+    color: rgba(162, 162, 162, 1);
+    font-size: 12px;
+    top: 0.5rem;
+    transition: 0.4s ease-in;
+}

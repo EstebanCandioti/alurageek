@@ -1,0 +1,6 @@
+.nuevo_producto__form{
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

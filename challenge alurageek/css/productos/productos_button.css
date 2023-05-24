@@ -1,0 +1,12 @@
+.productos__button{
+    width: 6.5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: none;
+    border: none;
+    color: rgba(42, 122, 228, 1);
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+}

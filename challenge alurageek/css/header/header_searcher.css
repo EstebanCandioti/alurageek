@@ -1,0 +1,9 @@
+.header__searcher{
+    background: #f5f5f5;
+    border: none;
+    width:  25rem;
+    height: 3rem;
+    border-radius: 5rem;
+    padding-left: 1rem;
+}
+

@@ -1,0 +1,6 @@
+.productos__lista__item{
+    height:22rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

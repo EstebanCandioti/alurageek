@@ -1,0 +1,15 @@
+.footer__form__input__texto{
+    width: 40rem;
+    height: 2rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    border: none;
+    border-bottom: 1px solid rgba(200, 200, 200, 1);
+}
+
+.footer__form__input__texto:focus{
+    outline:none;
+    border-bottom: 1px solid  #2A7AE4;
+    transition: 0.2s ease-in;
+}

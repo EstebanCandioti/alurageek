@@ -1,0 +1,7 @@
+.footer__container{
+    max-width: auto;
+    padding: 2rem 9.5rem;
+    display: flex;
+    justify-content: space-between;
+    background: rgba(234, 242, 253, 1);
+}

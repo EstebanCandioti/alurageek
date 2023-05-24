@@ -1,0 +1,9 @@
+.footer__form__button{
+    background: rgba(42, 122, 228, 1);
+    width: 10rem;
+    height: 3.5rem;
+    color: #ffff;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.login__form{
+    display: flex;
+    flex-direction: column;
+    height: 20rem;
+    justify-content: space-evenly;
+    align-items: center;
+}

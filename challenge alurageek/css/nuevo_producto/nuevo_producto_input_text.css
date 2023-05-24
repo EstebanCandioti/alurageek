@@ -1,0 +1,14 @@
+.nuevo_producto__input__texto{
+    width: 40rem;
+    height: 4rem;
+    padding-left: 0.7rem;
+    padding-bottom: 2rem;
+    border: none;
+    border-bottom: 1px solid rgba(200, 200, 200, 1);
+}
+
+.nuevo_producto__input__texto:focus{
+    outline:none;
+    border-bottom: 1px solid  #2A7AE4;
+    transition: 0.2s ease-in;
+}

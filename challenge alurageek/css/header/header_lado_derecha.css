@@ -1,0 +1,7 @@
+.header__lado__derecha{
+    width: 42%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}

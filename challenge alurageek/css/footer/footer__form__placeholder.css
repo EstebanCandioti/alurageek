@@ -1,0 +1,22 @@
+.footer__form__placeholder{
+    position: absolute;
+    top:1.2rem;
+    left: 0.5rem;
+    color: rgba(162, 162, 162, 1);
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.footer__form .input:focus~.footer__form__placeholder{
+    color: rgba(162, 162, 162, 1);
+    font-size: 12px;
+    top: 0.5rem;
+    transition: 0.4s ease-in;
+}
+
+.footer__form__input__texto:focus~.footer__form__placeholder{
+    color: rgba(162, 162, 162, 1);
+    font-size: 12px;
+    top: 0.5rem;
+    transition: 0.4s ease-in;
+}

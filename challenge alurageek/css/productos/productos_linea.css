@@ -1,0 +1,4 @@
+.productos__linea{
+    display: flex;
+    justify-content: space-between;
+}

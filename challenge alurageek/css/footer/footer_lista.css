@@ -1,0 +1,6 @@
+.footer__lista{
+    display: flex;
+    flex-direction: column;
+    height: 16rem;
+    justify-content: space-between;
+}

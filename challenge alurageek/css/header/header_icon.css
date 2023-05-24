@@ -1,0 +1,10 @@
+.header__icon{
+    position: absolute;
+    right: 0.1rem;
+    width: 5rem;
+    height: 5rem;
+    background-image: url(/img/lupa.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
